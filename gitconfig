@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tombsn17@gmail.com
+	name = Thomas Bensadoun
